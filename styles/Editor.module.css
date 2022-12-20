@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.input {
+  width: 50%;
+  height: 100vh;
+  padding: 16px;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  background: #1f2937;
+  color: white;
+}
+
+
+.markdown {
+  width: 50%;
+  height: 100vh;
+  padding: 16px;
+  font-size: 1rem;
+}
